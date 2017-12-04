@@ -1,0 +1,21 @@
+{
+  "name": "homebridge-germguardian",
+  "version": "0.0.1",
+  "description": "Germ Guardian air purifier plugin for Homebridge.",
+  "license": "MIT",
+  "keywords": [
+    "homebridge-plugin",
+    "germ guardian",
+    "air purifier",
+    "germ guardian purifier",
+    "germ"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bassrock/homebridge-germguardian.git"
+  },
+  "engines": {
+    "node": ">=0.12.0",
+    "homebridge": ">=0.2.0"
+  }
+}
